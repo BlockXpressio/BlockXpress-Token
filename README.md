@@ -1,4 +1,4 @@
-# 🚀 BlockXpress-Token
+# 📈 BlockXpress-Token
 
 ## 📊 Token Summary
 
