@@ -13,7 +13,7 @@
 
 ## 🔍 Audit
 
-Before using this token, we recommend reviewing the audit report to ensure its security and reliability. You can find the audit report [here](https://github.com/Assure-DeFi/Audits/blob/main/BlockXpress_%20ERC%2020%20token_11_03_2023.pdf).
+We suggest checking out the audit report to confirm its security and reliability. You can access the audit report by clicking on the link provided [here](https://github.com/Assure-DeFi/Audits/blob/main/BlockXpress_%20ERC%2020%20token_11_03_2023.pdf).
 
 ## ℹ️ Description
 
@@ -21,7 +21,7 @@ The BlockXpress Token (BX) is an Ethereum-based ERC-20 token designed for variou
 
 ## 🛠️ Getting Started
 
-To get started with BlockXpress Token, you can use the provided address to interact with the token contract on the Ethereum blockchain.
+To acquire BlockXpress Token, simply insert the contract address into Uniswap: 0x946eD522c737fBdA8b155bB375865B08061C0089.
 
 ## 📜 License
 
@@ -29,7 +29,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- For questions or inquiries, please contact us via our [website](https://blockxpress.io/).
-- Join our community on [Telegram](https://t.me/BlockXpressio).
-- Follow us on [Twitter](https://twitter.com/blockxpress).
+- For more information, visit our website: [website](https://blockxpress.io/).
+- Join us at Telegram: [Telegram](https://t.me/BlockXpressio).
+- Contact us on Twitter (X): [Twitter](https://twitter.com/blockxpress).
 
