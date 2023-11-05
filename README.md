@@ -17,7 +17,7 @@ We suggest checking out the audit report to confirm its security and reliability
 
 ## ℹ️ Description
 
-The BlockXpress Token (BX) is an Ethereum-based ERC-20 token designed for various use cases, including enabling users to shop with cryptocurrency for digital goods and products in the BlockXpress ecosystem.
+The $BX token serves various functions, including reduced fees, access to premium features, and participation in our governance system. It's the backbone of the BlockXpress ecosystem.
 
 ## 🛠️ Getting Started
 
